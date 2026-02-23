@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2-20250304-OS课设材料模版V1.0:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/2_20250304_OSV1_0_jar</output-path>
+    <root id="archive" name="2-20250304-OS课设材料模版V1.0.jar">
+      <element id="module-output" name="2-20250304-OS课设材料模版V1.0" />
+    </root>
+  </artifact>
+</component>

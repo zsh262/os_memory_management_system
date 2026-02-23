@@ -1,0 +1,5 @@
+west/jre/
+*.exe
+*.iml
+out/
+output/
